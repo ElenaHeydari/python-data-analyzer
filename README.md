@@ -188,5 +188,3 @@ Potential extensions include:
 GitHub: [@ElenaHeydari](https://github.com/ElenaHeydari)
 
 ---
-
-*Built as a Python data analysis portfolio project.*
